@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const socialContainer = document.createElement("div");
   socialContainer.classList.add("social-links");
   socialContainer.innerHTML =`
-    <a href="https://www.linkedin.com" target="_blank" class="social-placeholder linkedin">in</a>
+    <a href="https://www.linkedin.com/in/nimra-asmat-428698369" target="_blank" class="social-placeholder linkedin">in</a>
     <a href="https://www.instagram.com" target="_blank" class="social-placeholder instagram">IG</a>
     <a href="https://www.facebook.com" target="_blank" class="social-placeholder facebook">f</a>
  ` ;
