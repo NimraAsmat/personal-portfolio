@@ -14,13 +14,6 @@ A modern and responsive personal portfolio website to showcase projects, skills,
 
 ![Portfolio Screenshot](assets/portfolio.png)
 
-## Projects Included
-
-- Car Rental App ![Screenshot](assets/car-rental.png)
-- Cosmetic Store ![Screenshot](assets/cosmetic.png)
-- Weather App ![Screenshot](assets/weather-app.png)
-- User Authentication App ![Screenshot](assets/user-auth.png)
-
 ## How to Use
 
 1. Clone the repository:
